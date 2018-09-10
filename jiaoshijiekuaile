@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>祝老师教师节快乐</title>
+</head>
+<style>
+.tercher{
+	color:<?php for($i=0;$i<100;$i++) echo(i);?> ;
+	font-size:30px;
+	font-family:宋体;
+}
+
+</style>
+<body bgcolor="#cccccc">
+<ul center>
+<p class="tercher">花儿,为您献上芬芳</p>
+<p>小草，为您散发清新</p>
+<p>小河，为你流淌快乐</p>
+<p>阳关,为你挥洒幸福</p>
+<p style="color:blue">9.10教师节，发送最最衷心的祝福，祝愿老师您身体健康，永远年轻！开心快乐，幸福永远！</p>
+<p>老师节日快乐!:)</p>
+</ul>
+</body>
+</html>
